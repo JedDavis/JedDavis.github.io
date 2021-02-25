@@ -3,9 +3,8 @@
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
 <style>
-html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
+html,body,h1,h2 {font-family: "Roboto", sans-serif;}
 .w3-sidebar {
   z-index: 3;
   width: 1920px;
